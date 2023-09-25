@@ -37,7 +37,7 @@ Feel free to explore these projects, star them on GitHub, and open issues or pul
 
 We welcome contributions from the open-source community. To contribute, please follow these steps:
 
-1. **Fork the Repository**: Click the "Fork" button in the top-right corner of this repository to create a copy of it in your GitHub account.
+1. **Fork the Repository**: Click the "Fork" button in the top-right corner of the respective project's repository to create a copy of it in your GitHub account.
 
 2. **Create a New Branch**: Before making any changes, create a new branch in your forked repository. Use one of the following naming conventions for your branch:
    - `feat/your-branch-name` for new features.
@@ -57,7 +57,7 @@ We appreciate your help in making our projects better.
 
 ## License
 
-Each project listed here may have its own license. Please refer to the individual project's repository for licensing information.
+Each project listed here may have its own license. Please refer to the respective project's repository for licensing information.
 
 ## Contact
 
