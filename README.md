@@ -33,7 +33,11 @@ Here is a list of all the open-source projects developed by Spheron:
 
 4. [Spheron-Site-Deployer-Service](https://github.com/spheronFdn/spheron-site-deployer-service)
    - Spheron Site Deployer Service is an automated blockchain-driven deployment service that leverages Spheron and PushAPI for secure and decentralized frontend delivery.
-   
+  
+5. [Spheron Notification Service](https://github.com/spheronFdn/spheron-notification-service)
+   - Spheron Notification Service is a flexible solution for setting up your own notification service for Discord and Slack channels.
+
+<br/>   
 Feel free to explore these projects, star them on GitHub, and open issues or pull requests if you have any questions or want to contribute.
 
 ## Contributing
