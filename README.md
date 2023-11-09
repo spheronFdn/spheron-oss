@@ -30,6 +30,9 @@ Here is a list of all the open-source projects developed by Spheron:
 
 3. [SpheronSYNC](https://github.com/spheronFdn/SpheronSYNC)
    - SpheronSYNC is a tool built specifically to facilitate the seamless migration of your data from one IPFS provider to Spheron without the need for complex configurations.
+
+4. [Spheron-Site-Deployer-Service](https://github.com/spheronFdn/spheron-site-deployer-service)
+   - Spheron Site Deployer Service is an automated blockchain-driven deployment service that leverages Spheron and PushAPI for secure and decentralized frontend delivery.
    
 Feel free to explore these projects, star them on GitHub, and open issues or pull requests if you have any questions or want to contribute.
 
