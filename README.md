@@ -43,6 +43,9 @@ Here is a list of all the open-source projects developed by Spheron:
 7. [Spheron NFT Marketplace](https://github.com/spheronFdn/NFTMarketPlace)
    - A comprehensive NFT Marketplace where users can mint, list, buy, and resell NFTs within a robust and decentralized ecosystem using Spheron's Storage, Compute, and Site services.
 
+8. [Tableland-Compute-Simple-Auth](https://github.com/spheronFdn/tableland-compute-simple-auth)
+   - An integration of Spheron's computational power with Tableland's secure on-chain authentication, offering an enhanced level of security combined with efficient performance.
+
 <br/>   
 Feel free to explore these projects, star them on GitHub, and open issues or pull requests if you have any questions or want to contribute.
 
