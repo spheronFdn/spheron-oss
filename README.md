@@ -36,6 +36,9 @@ Here is a list of all the open-source projects developed by Spheron:
   
 5. [Spheron Notification Service](https://github.com/spheronFdn/spheron-notification-service)
    - Spheron Notification Service is a flexible solution for setting up your own notification service for Discord and Slack channels.
+  
+6. [Raffle Template](https://github.com/spheronFdn/raffle-template)
+   - Raffle Template is a simple NFT raffle application designed to streamline the process of hosting NFT raffles, offering a customizable smart contract and intuitive interface for both raffle organizers and participants.
 
 <br/>   
 Feel free to explore these projects, star them on GitHub, and open issues or pull requests if you have any questions or want to contribute.
