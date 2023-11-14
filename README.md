@@ -39,6 +39,9 @@ Here is a list of all the open-source projects developed by Spheron:
   
 6. [Raffle Template](https://github.com/spheronFdn/raffle-template)
    - Raffle Template is a simple NFT raffle application designed to streamline the process of hosting NFT raffles, offering a customizable smart contract and intuitive interface for both raffle organizers and participants.
+  
+7. [Spheron NFT Marketplace](https://github.com/spheronFdn/NFTMarketPlace)
+   - A comprehensive NFT Marketplace where users can mint, list, buy, and resell NFTs within a robust and decentralized ecosystem using Spheron's Storage, Compute, and Site services.
 
 <br/>   
 Feel free to explore these projects, star them on GitHub, and open issues or pull requests if you have any questions or want to contribute.
