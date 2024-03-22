@@ -50,7 +50,7 @@ Here is a list of all the open-source projects developed by Spheron:
    - An integration of Spheron's computational power with Tableland's secure on-chain authentication, offering an enhanced level of security combined with efficient performance.
 
 10. [Reef NFT Marketplace](https://github.com/spheronFdn/reef-nft-marketplace)
-    - A comprehensive NFT Marketplace showcasing the power of Spheron and Reef, where users can mint, list and buy NFTs within a robust and decentralized ecosystem.
+    - A comprehensive NFT Marketplace showcasing the power of Spheron and Reef, where users can mint, list, and buy NFTs within a robust and decentralized ecosystem.
 
 <br/>   
 Feel free to explore these projects, star them on GitHub, and open issues or pull requests if you have any questions or want to contribute.
