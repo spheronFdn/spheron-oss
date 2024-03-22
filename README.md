@@ -22,28 +22,31 @@ This repository serves as a directory for all our open-source projects. Each pro
 
 Here is a list of all the open-source projects developed by Spheron:
 
-1. [Incognfto](https://github.com/spheronFdn/incognfto)
+1. [Spheron Bot Marketplace](https://github.com/spheronFdn/spheron-bot-marketplace)
+   - Spheron Bot Marketplace is a dedicated platform for bot creators to showcase and discover a diverse range of open-source bots, fostering a community of high-quality projects.
+
+2. [Incognfto](https://github.com/spheronFdn/incognfto)
    - Incognfto is a private NFT gallery where only the owner can view their NFTs. The owner's name is displayed on each NFT, and users have the ability to unlock their own NFTs. Incognfto leverages the Lit Protocol for encrypting and decrypting NFTs, providing a secure and private environment for NFT owners.
    
-2. [VidNFT](https://github.com/spheronFdn/VidNFT)
+3. [VidNFT](https://github.com/spheronFdn/VidNFT)
    - VidNFT is a decentralized gallery for video NFTs built using the Spheron Browser SDK and Livepeer. VidNFT allows users to discover, mint, buy, and showcase their video NFTs in a user-friendly and decentralized environment.
 
-3. [SpheronSYNC](https://github.com/spheronFdn/SpheronSYNC)
+4. [SpheronSYNC](https://github.com/spheronFdn/SpheronSYNC)
    - SpheronSYNC is a tool built specifically to facilitate the seamless migration of your data from one IPFS provider to Spheron without the need for complex configurations.
 
-4. [Spheron-Site-Deployer-Service](https://github.com/spheronFdn/spheron-site-deployer-service)
+5. [Spheron-Site-Deployer-Service](https://github.com/spheronFdn/spheron-site-deployer-service)
    - Spheron Site Deployer Service is an automated blockchain-driven deployment service that leverages Spheron and PushAPI for secure and decentralized frontend delivery.
   
-5. [Spheron Notification Service](https://github.com/spheronFdn/spheron-notification-service)
+6. [Spheron Notification Service](https://github.com/spheronFdn/spheron-notification-service)
    - Spheron Notification Service is a flexible solution for setting up your own notification service for Discord and Slack channels.
   
-6. [Raffle Template](https://github.com/spheronFdn/raffle-template)
+7. [Raffle Template](https://github.com/spheronFdn/raffle-template)
    - Raffle Template is a simple NFT raffle application designed to streamline the process of hosting NFT raffles, offering a customizable smart contract and intuitive interface for both raffle organizers and participants.
   
-7. [Spheron NFT Marketplace](https://github.com/spheronFdn/NFTMarketPlace)
+8. [Spheron NFT Marketplace](https://github.com/spheronFdn/NFTMarketPlace)
    - A comprehensive NFT Marketplace where users can mint, list, buy, and resell NFTs within a robust and decentralized ecosystem using Spheron's Storage, Compute, and Site services.
 
-8. [Tableland-Compute-Simple-Auth](https://github.com/spheronFdn/tableland-compute-simple-auth)
+9. [Tableland-Compute-Simple-Auth](https://github.com/spheronFdn/tableland-compute-simple-auth)
    - An integration of Spheron's computational power with Tableland's secure on-chain authentication, offering an enhanced level of security combined with efficient performance.
 
 <br/>   
